@@ -7306,9 +7306,10 @@
     "speed": "minutes per reel",
     "footage": "required: a talking-head recording",
     "production_role": "treatment",
-    "media": null,
-    "media_kind": null,
-    "preview_note": "Reference recipe; preview unavailable"
+    "media": "media/dedc723e512d.mp4",
+    "media_kind": "video",
+    "preview_note": "Short native engine test · sample footage",
+    "poster": "media/dedc723e512d.jpg"
   },
   {
     "uid": "pack/aurora",
@@ -7332,9 +7333,10 @@
     "speed": "minutes per reel",
     "footage": "required: a talking-head recording",
     "production_role": "treatment",
-    "media": null,
-    "media_kind": null,
-    "preview_note": "Reference recipe; preview unavailable"
+    "media": "media/0960dd338a98.mp4",
+    "media_kind": "video",
+    "preview_note": "Short native engine test · sample footage",
+    "poster": "media/0960dd338a98.jpg"
   },
   {
     "uid": "pack/spiral",
@@ -7356,9 +7358,10 @@
     "speed": "minutes per reel",
     "footage": "required: a talking-head recording",
     "production_role": "treatment",
-    "media": null,
-    "media_kind": null,
-    "preview_note": "Reference recipe; preview unavailable"
+    "media": "media/d73964f72f8c.mp4",
+    "media_kind": "video",
+    "preview_note": "Short native engine test · sample footage",
+    "poster": "media/d73964f72f8c.jpg"
   },
   {
     "uid": "pack/eclipse",
@@ -7381,10 +7384,10 @@
     "speed": "minutes per reel",
     "footage": "required: a talking-head recording",
     "production_role": "treatment",
-    "media": "media/6ff38c481460.mp4",
+    "media": "media/a19a23ce9915.mp4",
     "media_kind": "video",
-    "preview_note": "Library showcase preview",
-    "poster": "media/6ff38c481460.jpg"
+    "preview_note": "Short native engine test · sample footage",
+    "poster": "media/a19a23ce9915.jpg"
   },
   {
     "uid": "vsk/animation-styles/pixel",
@@ -10441,9 +10444,10 @@
     "speed": "reference",
     "footage": "none",
     "production_role": "treatment",
-    "media": null,
-    "media_kind": null,
-    "preview_note": "Reference recipe; preview unavailable"
+    "media": "media/f91bb124462e.mp4",
+    "media_kind": "video",
+    "preview_note": "Bundled interaction study · illustrative UI",
+    "poster": "media/f91bb124462e.jpg"
   },
   {
     "uid": "keyframes/interaction/evidence-to-artifact",
@@ -10466,9 +10470,10 @@
     "speed": "reference",
     "footage": "none",
     "production_role": "treatment",
-    "media": null,
-    "media_kind": null,
-    "preview_note": "Reference recipe; preview unavailable"
+    "media": "media/1bdac35e4b7c.mp4",
+    "media_kind": "video",
+    "preview_note": "Bundled interaction study · illustrative UI",
+    "poster": "media/1bdac35e4b7c.jpg"
   },
   {
     "uid": "keyframes/interaction/selection-to-brief",
@@ -10491,9 +10496,10 @@
     "speed": "reference",
     "footage": "none",
     "production_role": "treatment",
-    "media": null,
-    "media_kind": null,
-    "preview_note": "Reference recipe; preview unavailable"
+    "media": "media/b5d86e55d004.mp4",
+    "media_kind": "video",
+    "preview_note": "Bundled interaction study · illustrative UI",
+    "poster": "media/b5d86e55d004.jpg"
   },
   {
     "uid": "animate/crosshatch",
@@ -10513,9 +10519,9 @@
     "speed": "Use measured runtime samples where available; final duration, media and quality affect build time",
     "footage": "none",
     "production_role": "treatment",
-    "media": null,
-    "media_kind": null,
-    "preview_note": "Reference recipe; preview unavailable"
+    "media": "media/6a6c8445cc58.png",
+    "media_kind": "image",
+    "preview_note": "Bundled animation kit sample"
   },
   {
     "uid": "animate/cut-paper",
@@ -10535,9 +10541,9 @@
     "speed": "Use measured runtime samples where available; final duration, media and quality affect build time",
     "footage": "none",
     "production_role": "treatment",
-    "media": null,
-    "media_kind": null,
-    "preview_note": "Reference recipe; preview unavailable"
+    "media": "media/378e45dadf1a.png",
+    "media_kind": "image",
+    "preview_note": "Bundled animation kit sample"
   },
   {
     "uid": "animate/isometric",
@@ -10557,9 +10563,9 @@
     "speed": "Use measured runtime samples where available; final duration, media and quality affect build time",
     "footage": "none",
     "production_role": "treatment",
-    "media": null,
-    "media_kind": null,
-    "preview_note": "Reference recipe; preview unavailable"
+    "media": "media/98f67dd5780a.png",
+    "media_kind": "image",
+    "preview_note": "Bundled animation kit sample"
   },
   {
     "uid": "animate/math",
@@ -10579,9 +10585,9 @@
     "speed": "Use measured runtime samples where available; final duration, media and quality affect build time",
     "footage": "none",
     "production_role": "treatment",
-    "media": null,
-    "media_kind": null,
-    "preview_note": "Reference recipe; preview unavailable"
+    "media": "media/133d4f1ff778.png",
+    "media_kind": "image",
+    "preview_note": "Bundled animation kit sample"
   },
   {
     "uid": "animate/pixel",
@@ -10601,9 +10607,9 @@
     "speed": "Use measured runtime samples where available; final duration, media and quality affect build time",
     "footage": "none",
     "production_role": "treatment",
-    "media": null,
-    "media_kind": null,
-    "preview_note": "Reference recipe; preview unavailable"
+    "media": "media/78db9a4fadc0.png",
+    "media_kind": "image",
+    "preview_note": "Bundled animation kit sample"
   },
   {
     "uid": "animate/riso",
@@ -10623,9 +10629,9 @@
     "speed": "Use measured runtime samples where available; final duration, media and quality affect build time",
     "footage": "none",
     "production_role": "treatment",
-    "media": null,
-    "media_kind": null,
-    "preview_note": "Reference recipe; preview unavailable"
+    "media": "media/288b1932f09e.png",
+    "media_kind": "image",
+    "preview_note": "Bundled animation kit sample"
   },
   {
     "uid": "animate/sketchbook",
@@ -10645,9 +10651,9 @@
     "speed": "Use measured runtime samples where available; final duration, media and quality affect build time",
     "footage": "none",
     "production_role": "treatment",
-    "media": null,
-    "media_kind": null,
-    "preview_note": "Reference recipe; preview unavailable"
+    "media": "media/9aec4681282a.png",
+    "media_kind": "image",
+    "preview_note": "Bundled animation kit sample"
   },
   {
     "uid": "people/behind-the-person",
