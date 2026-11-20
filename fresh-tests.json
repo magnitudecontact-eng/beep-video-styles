@@ -1,0 +1,567 @@
+[
+  {
+    "uid": "sample/fresh/animate-crosshatch",
+    "name": "Animate Crosshatch — fresh test",
+    "file_name": "animate-crosshatch.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/93ed9de705d20688.mp4",
+    "poster": "media/11efab08791b908b.jpg",
+    "style_uids": [
+      "animate/crosshatch"
+    ],
+    "runtime_key": "studio",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/animate-cut-paper",
+    "name": "Animate Cut Paper — fresh test",
+    "file_name": "animate-cut-paper.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/99c20edb6f171eaa.mp4",
+    "poster": "media/14e3bc9a5925d0b4.jpg",
+    "style_uids": [
+      "animate/cut-paper"
+    ],
+    "runtime_key": "studio",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/animate-isometric",
+    "name": "Animate Isometric — fresh test",
+    "file_name": "animate-isometric.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/2cd437c422d4f5e4.mp4",
+    "poster": "media/c3011de74f507677.jpg",
+    "style_uids": [
+      "animate/isometric"
+    ],
+    "runtime_key": "studio",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/animate-math",
+    "name": "Animate Math — fresh test",
+    "file_name": "animate-math.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/90cb7a17c14fb541.mp4",
+    "poster": "media/cd862d90429cf39e.jpg",
+    "style_uids": [
+      "animate/math"
+    ],
+    "runtime_key": "studio",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/animate-pixel",
+    "name": "Animate Pixel — fresh test",
+    "file_name": "animate-pixel.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/e7775feb5d5cd087.mp4",
+    "poster": "media/ab0dbde968188515.jpg",
+    "style_uids": [
+      "animate/pixel"
+    ],
+    "runtime_key": "studio",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/animate-riso",
+    "name": "Animate Riso — fresh test",
+    "file_name": "animate-riso.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/a7dfc7a81fefd8d2.mp4",
+    "poster": "media/3118ace18842ac55.jpg",
+    "style_uids": [
+      "animate/riso"
+    ],
+    "runtime_key": "studio",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/animate-sketchbook",
+    "name": "Animate Sketchbook — fresh test",
+    "file_name": "animate-sketchbook.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/39a566a9c8d6387b.mp4",
+    "poster": "media/f740978b8fe1d245.jpg",
+    "style_uids": [
+      "animate/sketchbook"
+    ],
+    "runtime_key": "studio",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/animation-styles",
+    "name": "Animation Styles — fresh test",
+    "file_name": "animation-styles.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/8a030b119a91f975.mp4",
+    "poster": "media/9d39e8f309540dff.jpg",
+    "style_uids": [
+      "vsk/animation-styles/pixel",
+      "vsk/animation-styles/ps2",
+      "vsk/animation-styles/comic",
+      "vsk/animation-styles/brick",
+      "vsk/animation-styles/clay",
+      "vsk/animation-styles/paper",
+      "vsk/animation-styles/anime",
+      "vsk/animation-styles/poly",
+      "vsk/animation-styles/riso",
+      "vsk/animation-styles/mini"
+    ],
+    "runtime_key": "studio",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/aurora",
+    "name": "Aurora — fresh test",
+    "file_name": "aurora.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/361edab000c986d9.mp4",
+    "poster": "media/6b5d02fa94241c0a.jpg",
+    "style_uids": [
+      "pack/aurora"
+    ],
+    "runtime_key": "aurora",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/canvas",
+    "name": "Canvas — fresh test",
+    "file_name": "canvas.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/1326ba6cd9659498.mp4",
+    "poster": "media/3d44c801d219be14.jpg",
+    "style_uids": [
+      "engine/129"
+    ],
+    "runtime_key": "canvas",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/caption",
+    "name": "Caption — fresh test",
+    "file_name": "caption.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/f9ae44886444ae7c.mp4",
+    "poster": "media/4bb8d9de9a69cc62.jpg",
+    "style_uids": [],
+    "runtime_key": "studio",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic. Renderer/caption check, not a complete production treatment.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/cartoon3d",
+    "name": "Cartoon3D — fresh test",
+    "file_name": "cartoon3d.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/3e6b06c20dd26164.mp4",
+    "poster": "media/51d50b3dee4586e5.jpg",
+    "style_uids": [
+      "vsk/cartoon3d/fire"
+    ],
+    "runtime_key": "cartoon3d",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/eclipse",
+    "name": "Eclipse — fresh test",
+    "file_name": "eclipse.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/4e54c73da94fbe09.mp4",
+    "poster": "media/cf183500c68e9577.jpg",
+    "style_uids": [
+      "pack/eclipse"
+    ],
+    "runtime_key": "eclipse",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/exploded-product",
+    "name": "Exploded Product — fresh test",
+    "file_name": "exploded-product.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/af15b4fd1d764800.mp4",
+    "poster": "media/94667def167a484a.jpg",
+    "style_uids": [
+      "vsk/exploded-product/studio"
+    ],
+    "runtime_key": "studio",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/keyframes",
+    "name": "Keyframes — fresh test",
+    "file_name": "keyframes.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/8699df2b9f51ee51.mp4",
+    "poster": "media/a1503453049c81bd.jpg",
+    "style_uids": [
+      "keyframes/product-demo"
+    ],
+    "runtime_key": "keyframes",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/kinetic",
+    "name": "Kinetic — fresh test",
+    "file_name": "kinetic.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/21e2b26be9118d10.mp4",
+    "poster": "media/d34fccb24b1e2ace.jpg",
+    "style_uids": [
+      "vsk/kinetic/type"
+    ],
+    "runtime_key": "kinetic",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/layercut",
+    "name": "Layercut — fresh test",
+    "file_name": "layercut.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/0a930691932b251e.mp4",
+    "poster": "media/b6ec70d6fbf0f275.jpg",
+    "style_uids": [
+      "pack/layercut"
+    ],
+    "runtime_key": "layercut",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/lemo-core",
+    "name": "Lemo Core — fresh test",
+    "file_name": "lemo-core.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/93e53ba37a5dade8.mp4",
+    "poster": "media/cf23bc91fc8be550.jpg",
+    "style_uids": [],
+    "runtime_key": "lemo",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic. Renderer/caption check, not a complete production treatment.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/motion-studio",
+    "name": "Motion Studio — fresh test",
+    "file_name": "motion-studio.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/49182896e77932dc.mp4",
+    "poster": "media/8fa87f726026403e.jpg",
+    "style_uids": [
+      "vsk/motion-studio/reel"
+    ],
+    "runtime_key": "motion-studio",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/painted",
+    "name": "Painted — fresh test",
+    "file_name": "painted.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/e9b5a9821fbbefb1.mp4",
+    "poster": "media/6255ec75596d6963.jpg",
+    "style_uids": [
+      "vsk/painted/watercolour"
+    ],
+    "runtime_key": "painted",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/people-behind-the-person",
+    "name": "People Behind The Person — fresh test",
+    "file_name": "people-behind-the-person.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/d6b2f84ccfc220b1.mp4",
+    "poster": "media/fde81cb13123c08f.jpg",
+    "style_uids": [
+      "people/behind-the-person"
+    ],
+    "runtime_key": "people",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/people-explainer",
+    "name": "People Explainer — fresh test",
+    "file_name": "people-explainer.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/68547022ce3fb19d.mp4",
+    "poster": "media/7b12c00ce0d5b5f1.jpg",
+    "style_uids": [
+      "people/explainer"
+    ],
+    "runtime_key": "people",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/people-orbit-reel",
+    "name": "People Orbit Reel — fresh test",
+    "file_name": "people-orbit-reel.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/78a036f0810f154a.mp4",
+    "poster": "media/b7b5b764576d275c.jpg",
+    "style_uids": [
+      "people/orbit-reel"
+    ],
+    "runtime_key": "people",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/people-picture-stack",
+    "name": "People Picture Stack — fresh test",
+    "file_name": "people-picture-stack.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/ef993bb9028c8701.mp4",
+    "poster": "media/5011a6f1cd5b12bf.jpg",
+    "style_uids": [
+      "people/picture-stack"
+    ],
+    "runtime_key": "people",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/people-ranking-list",
+    "name": "People Ranking List — fresh test",
+    "file_name": "people-ranking-list.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/283ed8dce3e39039.mp4",
+    "poster": "media/fa5629204aa35e90.jpg",
+    "style_uids": [
+      "people/ranking-list"
+    ],
+    "runtime_key": "people",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/people-scene-switch",
+    "name": "People Scene Switch — fresh test",
+    "file_name": "people-scene-switch.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/59343d8001c474a3.mp4",
+    "poster": "media/4b75c2ebbf44ed1a.jpg",
+    "style_uids": [
+      "people/scene-switch"
+    ],
+    "runtime_key": "people",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/people-shape-shift",
+    "name": "People Shape Shift — fresh test",
+    "file_name": "people-shape-shift.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/1fd65591e7828f80.mp4",
+    "poster": "media/c8a820595bc30106.jpg",
+    "style_uids": [
+      "people/shape-shift"
+    ],
+    "runtime_key": "people",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/people-split-screen",
+    "name": "People Split Screen — fresh test",
+    "file_name": "people-split-screen.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/303e29146e7b6cbe.mp4",
+    "poster": "media/17a7f3f7e08ed34f.jpg",
+    "style_uids": [
+      "people/split-screen"
+    ],
+    "runtime_key": "people",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/people-storytelling",
+    "name": "People Storytelling — fresh test",
+    "file_name": "people-storytelling.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/e3b5b168d3195d30.mp4",
+    "poster": "media/9606a40403afc80d.jpg",
+    "style_uids": [
+      "people/storytelling"
+    ],
+    "runtime_key": "people",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/people-trial-reels-1",
+    "name": "People Trial Reels 1 — fresh test",
+    "file_name": "people-trial-reels-1.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/8ace8bfc7f4ef9a1.mp4",
+    "poster": "media/5ba77fb08de370d6.jpg",
+    "style_uids": [
+      "people/trial-reels"
+    ],
+    "runtime_key": "people",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/people-trial-reels-2",
+    "name": "People Trial Reels 2 — fresh test",
+    "file_name": "people-trial-reels-2.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/ef59b4f42e7049ee.mp4",
+    "poster": "media/6e81c44ba3b36573.jpg",
+    "style_uids": [
+      "people/trial-reels"
+    ],
+    "runtime_key": "people",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/people-trial-reels-3",
+    "name": "People Trial Reels 3 — fresh test",
+    "file_name": "people-trial-reels-3.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/28f9183cd0523f68.mp4",
+    "poster": "media/2af7bb8278b81809.jpg",
+    "style_uids": [
+      "people/trial-reels"
+    ],
+    "runtime_key": "people",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/people-visual-notes",
+    "name": "People Visual Notes — fresh test",
+    "file_name": "people-visual-notes.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/af9e6ad7f15f29a0.mp4",
+    "poster": "media/73af588b82d3917d.jpg",
+    "style_uids": [
+      "people/visual-notes"
+    ],
+    "runtime_key": "people",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/sci-flat",
+    "name": "Sci Flat — fresh test",
+    "file_name": "sci-flat.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/ca3a3d14e7999c5e.mp4",
+    "poster": "media/36aa0da71f9eb384.jpg",
+    "style_uids": [
+      "vsk/sci-flat/flat"
+    ],
+    "runtime_key": "studio",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/sci-fluoro",
+    "name": "Sci Fluoro — fresh test",
+    "file_name": "sci-fluoro.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/ad40a0228a26d7f1.mp4",
+    "poster": "media/710493eb3c50edd8.jpg",
+    "style_uids": [
+      "vsk/sci-fluoro/fluoro"
+    ],
+    "runtime_key": "studio",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/sci-molecular",
+    "name": "Sci Molecular — fresh test",
+    "file_name": "sci-molecular.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/9c690f2117ec02c7.mp4",
+    "poster": "media/8b07c8ca80a1dc8b.jpg",
+    "style_uids": [
+      "vsk/sci-molecular/molecular"
+    ],
+    "runtime_key": "studio",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/sci-notebook",
+    "name": "Sci Notebook — fresh test",
+    "file_name": "sci-notebook.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/9e2344182b4a1f10.mp4",
+    "poster": "media/d287d470309c02e5.jpg",
+    "style_uids": [
+      "vsk/sci-notebook/notebook"
+    ],
+    "runtime_key": "studio",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/spiral",
+    "name": "Spiral — fresh test",
+    "file_name": "spiral.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/9417b904d0b384af.mp4",
+    "poster": "media/ced12b49da84e6eb.jpg",
+    "style_uids": [
+      "pack/spiral"
+    ],
+    "runtime_key": "spiral",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/tvhead",
+    "name": "Tvhead — fresh test",
+    "file_name": "tvhead.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/d0a0ff388fd67910.mp4",
+    "poster": "media/aadf2758b069395d.jpg",
+    "style_uids": [
+      "vsk/tvhead/stick"
+    ],
+    "runtime_key": "tvhead",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  },
+  {
+    "uid": "sample/fresh/whatif",
+    "name": "Whatif — fresh test",
+    "file_name": "whatif.mp4",
+    "group": "Fresh machine checks",
+    "media": "media/341d3c4c7edd6260.mp4",
+    "poster": "media/45e902ec650ea628.jpg",
+    "style_uids": [
+      "vsk/whatif/whatif"
+    ],
+    "runtime_key": "whatif",
+    "preview_note": "Fresh Linux native test. Short technical sample; use your own project media. People caption timings may be synthetic.",
+    "requirements": "Your own footage or brief and the selected production engine"
+  }
+]
