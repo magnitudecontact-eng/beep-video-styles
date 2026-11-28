@@ -1,0 +1,1502 @@
+{
+  "shotcraft:assemble-then-type-flyin": {
+    "id": "shotcraft:assemble-then-type-flyin",
+    "composition": "S-assemble-then-type-flyin",
+    "component": "AssembleThenTypeFlyin",
+    "source": "demos/effects/assemble-then-type-flyin/AssembleThenTypeFlyin.tsx",
+    "card": "references/shots/effects/assemble-then-type-flyin.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:aurora-bloom-bg-flip": {
+    "id": "shotcraft:aurora-bloom-bg-flip",
+    "composition": "S-aurora-bloom-bg-flip",
+    "component": "AuroraBloomBgFlip",
+    "source": "demos/effects/aurora-bloom-bg-flip/AuroraBloomBgFlip.tsx",
+    "card": "references/shots/effects/aurora-bloom-bg-flip.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:autolayout-gap-dial": {
+    "id": "shotcraft:autolayout-gap-dial",
+    "composition": "S-autolayout-gap-dial",
+    "component": "AutolayoutGapDial",
+    "source": "demos/interaction/autolayout-gap-dial/AutolayoutGapDial.tsx",
+    "card": "references/shots/interaction/autolayout-gap-dial.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:avatar-bracket-carousel": {
+    "id": "shotcraft:avatar-bracket-carousel",
+    "composition": "S-avatar-bracket-carousel",
+    "component": "AvatarBracketCarousel",
+    "source": "demos/ui-entrance/avatar-bracket-carousel/AvatarBracketCarousel.tsx",
+    "card": "references/shots/ui-entrance/avatar-bracket-carousel.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:basic-3d-scene": {
+    "id": "shotcraft:basic-3d-scene",
+    "composition": "S-basic-3d-scene",
+    "component": "Basic3DScene",
+    "source": "demos/camera/basic-3d-scene/Basic3DScene.tsx",
+    "card": "references/shots/camera/basic-3d-scene.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:paparazzi-flash": {
+    "id": "shotcraft:paparazzi-flash",
+    "composition": "S-paparazzi-flash",
+    "component": "PaparazziFlash",
+    "source": "demos/rhythm/beat-cut-moves/PaparazziFlash.tsx",
+    "card": "references/shots/rhythm/beat-cut-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:beat-step-list-theme-cycle": {
+    "id": "shotcraft:beat-step-list-theme-cycle",
+    "composition": "S-beat-step-list-theme-cycle",
+    "component": "BeatStepListThemeCycle",
+    "source": "demos/rhythm/beat-step-list-theme-cycle/BeatStepListThemeCycle.tsx",
+    "card": "references/shots/rhythm/beat-step-list-theme-cycle.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:before-after-slider-scrub": {
+    "id": "shotcraft:before-after-slider-scrub",
+    "composition": "S-before-after-slider-scrub",
+    "component": "BeforeAfterSliderScrub",
+    "source": "demos/data/before-after-slider-scrub/BeforeAfterSliderScrub.tsx",
+    "card": "references/shots/data/before-after-slider-scrub.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:bezier-source-converge-merge": {
+    "id": "shotcraft:bezier-source-converge-merge",
+    "composition": "S-bezier-source-converge-merge",
+    "component": "BezierSourceConvergeMerge",
+    "source": "demos/ui-entrance/bezier-source-converge-merge/BezierSourceConvergeMerge.tsx",
+    "card": "references/shots/ui-entrance/bezier-source-converge-merge.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:blur-slide": {
+    "id": "shotcraft:blur-slide",
+    "composition": "S-blur-slide",
+    "component": "BlurSlide",
+    "source": "demos/typography/blur-slide/BlurSlide.tsx",
+    "card": "references/shots/typography/blur-slide.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:bottom-push-stack-wipe": {
+    "id": "shotcraft:bottom-push-stack-wipe",
+    "composition": "S-bottom-push-stack-wipe",
+    "component": "BottomPushStackWipe",
+    "source": "demos/transition/bottom-push-stack-wipe/BottomPushStackWipe.tsx",
+    "card": "references/shots/transition/bottom-push-stack-wipe.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:brace-expand": {
+    "id": "shotcraft:brace-expand",
+    "composition": "S-brace-expand",
+    "component": "BraceExpand",
+    "source": "demos/typography/brace-expand/BraceExpand.tsx",
+    "card": "references/shots/typography/brace-expand.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:brand-frame-snap": {
+    "id": "shotcraft:brand-frame-snap",
+    "composition": "S-brand-frame-snap",
+    "component": "BrandFrameSnap",
+    "source": "demos/effects/brand-frame-snap/BrandFrameSnap.tsx",
+    "card": "references/shots/effects/brand-frame-snap.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:brand-ink-open": {
+    "id": "shotcraft:brand-ink-open",
+    "composition": "S-brand-ink-open",
+    "component": "BrandInkOpen",
+    "source": "demos/typography/brand-ink-open/BrandInkOpen.tsx",
+    "card": "references/shots/opening/brand-ink-open.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:panel-to-canvas": {
+    "id": "shotcraft:panel-to-canvas",
+    "composition": "S-panel-to-canvas",
+    "component": "PanelToCanvasMaterialize",
+    "source": "demos/interaction/canvas-materialize-moves/PanelToCanvasMaterialize.tsx",
+    "card": "references/shots/interaction/canvas-materialize-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:diagram-cascade": {
+    "id": "shotcraft:diagram-cascade",
+    "composition": "S-diagram-cascade",
+    "component": "DiagramCascadeBuild",
+    "source": "demos/interaction/canvas-materialize-moves/DiagramCascadeBuild.tsx",
+    "card": "references/shots/interaction/canvas-materialize-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:card-flip-reveal": {
+    "id": "shotcraft:card-flip-reveal",
+    "composition": "S-card-flip-reveal",
+    "component": "CardFlipReveal",
+    "source": "demos/transition/card-flip-reveal/CardFlipReveal.tsx",
+    "card": "references/shots/transition/card-flip-reveal.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:card-flock-tumble": {
+    "id": "shotcraft:card-flock-tumble",
+    "composition": "S-card-flock-tumble",
+    "component": "CardFlockTumble",
+    "source": "demos/transition/card-flock-tumble/CardFlockTumble.tsx",
+    "card": "references/shots/transition/card-flock-tumble.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:card-stack": {
+    "id": "shotcraft:card-stack",
+    "composition": "S-card-stack",
+    "component": "CardStack",
+    "source": "demos/ui-entrance/card-stack/CardStack.tsx",
+    "card": "references/shots/ui-entrance/card-stack.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:carousel-3d": {
+    "id": "shotcraft:carousel-3d",
+    "composition": "S-carousel-3d",
+    "component": "Carousel3D",
+    "source": "demos/ui-entrance/carousel-3d/Carousel3D.tsx",
+    "card": "references/shots/ui-entrance/carousel-3d.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:oscilloscope-stream": {
+    "id": "shotcraft:oscilloscope-stream",
+    "composition": "S-oscilloscope-stream",
+    "component": "OscilloscopeStreamV2",
+    "source": "demos/data/chart-live-moves/OscilloscopeStreamV2.tsx",
+    "card": "references/shots/data/chart-live-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:unit-dot-swarm-regroup": {
+    "id": "shotcraft:unit-dot-swarm-regroup",
+    "composition": "S-unit-dot-swarm-regroup",
+    "component": "UnitDotSwarmRegroupV2",
+    "source": "demos/data/chart-live-moves/UnitDotSwarmRegroupV2.tsx",
+    "card": "references/shots/data/chart-live-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:axis-rescale-shock": {
+    "id": "shotcraft:axis-rescale-shock",
+    "composition": "S-axis-rescale-shock",
+    "component": "AxisRescaleShockV2",
+    "source": "demos/data/chart-live-moves/AxisRescaleShockV2.tsx",
+    "card": "references/shots/data/chart-live-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:chip-grid-single-select-blackout": {
+    "id": "shotcraft:chip-grid-single-select-blackout",
+    "composition": "S-chip-grid-single-select-blackout",
+    "component": "ChipGridSingleSelectBlackout",
+    "source": "demos/interaction/chip-grid-single-select-blackout/ChipGridSingleSelectBlackout.tsx",
+    "card": "references/shots/interaction/chip-grid-single-select-blackout.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:circle-match-iris": {
+    "id": "shotcraft:circle-match-iris",
+    "composition": "S-circle-match-iris",
+    "component": "CircleMatchIris",
+    "source": "demos/transition/circle-match-iris/CircleMatchIris.tsx",
+    "card": "references/shots/transition/circle-match-iris.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:cloner-depth-echo": {
+    "id": "shotcraft:cloner-depth-echo",
+    "composition": "S-cloner-depth-echo",
+    "component": "ClonerDepthEcho",
+    "source": "demos/ui-entrance/cloner-depth-echo/ClonerDepthEcho.tsx",
+    "card": "references/shots/ui-entrance/cloner-depth-echo.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:cast-ensemble": {
+    "id": "shotcraft:cast-ensemble",
+    "composition": "S-cast-ensemble",
+    "component": "CursorCastEnsemble",
+    "source": "demos/interaction/collab-cursor-moves/CursorCastEnsemble.tsx",
+    "card": "references/shots/interaction/collab-cursor-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:countdown-arc-scatter": {
+    "id": "shotcraft:countdown-arc-scatter",
+    "composition": "S-countdown-arc-scatter",
+    "component": "CountdownArcScatter",
+    "source": "demos/typography/countdown-arc-scatter/CountdownArcScatter.tsx",
+    "card": "references/shots/typography/countdown-arc-scatter.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:crane-rise-reveal": {
+    "id": "shotcraft:crane-rise-reveal",
+    "composition": "S-crane-rise-reveal",
+    "component": "CraneRiseReveal",
+    "source": "demos/opening/crane-rise-reveal/CraneRiseReveal.tsx",
+    "card": "references/shots/opening/crane-rise-reveal.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:crash-zoom-punch": {
+    "id": "shotcraft:crash-zoom-punch",
+    "composition": "S-crash-zoom-punch",
+    "component": "CrashZoomReal",
+    "source": "demos/camera/crash-zoom-punch/CrashZoomReal.tsx",
+    "card": "references/shots/camera/crash-zoom-punch.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:cursor-flyover": {
+    "id": "shotcraft:cursor-flyover",
+    "composition": "S-cursor-flyover",
+    "component": "CursorFlyover",
+    "source": "demos/camera/cursor-flyover/CursorFlyover.tsx",
+    "card": "references/shots/camera/cursor-flyover.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:dataviz-landscape-open": {
+    "id": "shotcraft:dataviz-landscape-open",
+    "composition": "S-dataviz-landscape-open",
+    "component": "DatavizLandscapeOpen",
+    "source": "demos/opening/dataviz-landscape-open/DatavizLandscapeOpen.tsx",
+    "card": "references/shots/opening/dataviz-landscape-open.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:deck-deal-flyin": {
+    "id": "shotcraft:deck-deal-flyin",
+    "composition": "S-deck-deal-flyin",
+    "component": "DeckDealFlyin",
+    "source": "demos/ui-entrance/deck-deal-flyin/DeckDealFlyin.tsx",
+    "card": "references/shots/ui-entrance/deck-deal-flyin.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:multiplane": {
+    "id": "shotcraft:multiplane",
+    "composition": "S-multiplane",
+    "component": "MultiplaneReal",
+    "source": "demos/camera/depth-layer-moves/MultiplaneReal.tsx",
+    "card": "references/shots/camera/depth-layer-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:doc-park-left-pill-deal": {
+    "id": "shotcraft:doc-park-left-pill-deal",
+    "composition": "S-doc-park-left-pill-deal",
+    "component": "DocParkLeftPillDeal",
+    "source": "demos/ui-entrance/doc-park-left-pill-deal/DocParkLeftPillDeal.tsx",
+    "card": "references/shots/ui-entrance/doc-park-left-pill-deal.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:document-typewriter-reveal": {
+    "id": "shotcraft:document-typewriter-reveal",
+    "composition": "S-document-typewriter-reveal",
+    "component": "DocumentTypewriterReveal",
+    "source": "demos/ui-entrance/document-typewriter-reveal/DocumentTypewriterReveal.tsx",
+    "card": "references/shots/typography/document-typewriter-reveal.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:draw-svg-trace": {
+    "id": "shotcraft:draw-svg-trace",
+    "composition": "S-draw-svg-trace",
+    "component": "DrawSvgTrace",
+    "source": "demos/ui-entrance/draw-svg-trace/DrawSvgTrace.tsx",
+    "card": "references/shots/ui-entrance/draw-svg-trace.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:contact-shadow-lift": {
+    "id": "shotcraft:contact-shadow-lift",
+    "composition": "S-contact-shadow-lift",
+    "component": "ContactShadowLift",
+    "source": "demos/ui-entrance/element-body-moves/ContactShadowLift.tsx",
+    "card": "references/shots/ui-entrance/element-body-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:flying-words": {
+    "id": "shotcraft:flying-words",
+    "composition": "S-flying-words",
+    "component": "FlyingWords",
+    "source": "demos/typography/flying-words/FlyingWords.tsx",
+    "card": "references/shots/typography/flying-words.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:fracture": {
+    "id": "shotcraft:fracture",
+    "composition": "S-fracture",
+    "component": "Fracture",
+    "source": "demos/opening/fracture/Fracture.tsx",
+    "card": "references/shots/opening/fracture.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:reticle-lock-on": {
+    "id": "shotcraft:reticle-lock-on",
+    "composition": "S-reticle-lock-on",
+    "component": "ReticleLockOn",
+    "source": "demos/effects/fui-hud-moves/ReticleLockOn.tsx",
+    "card": "references/shots/effects/fui-hud-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:needle-sweep-selftest": {
+    "id": "shotcraft:needle-sweep-selftest",
+    "composition": "S-needle-sweep-selftest",
+    "component": "NeedleSweepSelftest",
+    "source": "demos/data/gauge-readout-moves/NeedleSweepSelftest.tsx",
+    "card": "references/shots/data/gauge-readout-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:tape-scroll-fixed-pointer": {
+    "id": "shotcraft:tape-scroll-fixed-pointer",
+    "composition": "S-tape-scroll-fixed-pointer",
+    "component": "TapeScrollFixedPointer",
+    "source": "demos/data/gauge-readout-moves/TapeScrollFixedPointer.tsx",
+    "card": "references/shots/data/gauge-readout-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:glass-pill-dictation-typing": {
+    "id": "shotcraft:glass-pill-dictation-typing",
+    "composition": "S-glass-pill-dictation-typing",
+    "component": "GlassPillDictationTyping",
+    "source": "demos/interaction/glass-pill-dictation-typing/GlassPillDictationTyping.tsx",
+    "card": "references/shots/interaction/glass-pill-dictation-typing.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:glitch-cycle": {
+    "id": "shotcraft:glitch-cycle",
+    "composition": "S-glitch-cycle",
+    "component": "GlitchCycle",
+    "source": "demos/typography/glitch-cycle/GlitchCycle.tsx",
+    "card": "references/shots/typography/glitch-cycle.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:glow-orb-ambient": {
+    "id": "shotcraft:glow-orb-ambient",
+    "composition": "S-glow-orb-ambient",
+    "component": "GlowOrbAmbient",
+    "source": "demos/effects/glow-flyline-moves/GlowOrbAmbient.tsx",
+    "card": "references/shots/effects/glow-flyline-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:flyline-arc": {
+    "id": "shotcraft:flyline-arc",
+    "composition": "S-flyline-arc",
+    "component": "FlylineArc",
+    "source": "demos/effects/glow-flyline-moves/FlylineArc.tsx",
+    "card": "references/shots/effects/glow-flyline-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:orb-flyline-relay": {
+    "id": "shotcraft:orb-flyline-relay",
+    "composition": "S-orb-flyline-relay",
+    "component": "OrbFlylineRelay",
+    "source": "demos/effects/glow-flyline-moves/OrbFlylineRelay.tsx",
+    "card": "references/shots/effects/glow-flyline-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:gradient-transition": {
+    "id": "shotcraft:gradient-transition",
+    "composition": "S-gradient-transition",
+    "component": "GradientTransition",
+    "source": "demos/transition/gradient-transition/GradientTransition.tsx",
+    "card": "references/shots/transition/gradient-transition.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:gradient-word-sweep": {
+    "id": "shotcraft:gradient-word-sweep",
+    "composition": "S-gradient-word-sweep",
+    "component": "GradientWordSweep",
+    "source": "demos/typography/gradient-word-sweep/GradientWordSweep.tsx",
+    "card": "references/shots/typography/gradient-word-sweep.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:grain-dissolve": {
+    "id": "shotcraft:grain-dissolve",
+    "composition": "S-grain-dissolve",
+    "component": "GrainDissolve",
+    "source": "demos/outro/grain-dissolve/GrainDissolve.tsx",
+    "card": "references/shots/outro/grain-dissolve.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:graze-face-tour": {
+    "id": "shotcraft:graze-face-tour",
+    "composition": "S-graze-face-tour",
+    "component": "GrazeFaceTour",
+    "source": "demos/camera/graze-face-tour/GrazeFaceTour.tsx",
+    "card": "references/shots/camera/graze-face-tour.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:hashtag-to-pill-materialize": {
+    "id": "shotcraft:hashtag-to-pill-materialize",
+    "composition": "S-hashtag-to-pill-materialize",
+    "component": "HashtagToPillMaterialize",
+    "source": "demos/interaction/hashtag-to-pill-materialize/HashtagToPillMaterialize.tsx",
+    "card": "references/shots/interaction/hashtag-to-pill-materialize.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:icon-field-colorize": {
+    "id": "shotcraft:icon-field-colorize",
+    "composition": "S-icon-field-colorize",
+    "component": "IconFieldColorize",
+    "source": "demos/opening/icon-field-colorize/IconFieldColorize.tsx",
+    "card": "references/shots/opening/icon-field-colorize.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:attention-bounce": {
+    "id": "shotcraft:attention-bounce",
+    "composition": "S-attention-bounce",
+    "component": "AttentionBounce",
+    "source": "demos/effects/icon-performance-moves/AttentionBounce.tsx",
+    "card": "references/shots/effects/icon-performance-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:hit-counter": {
+    "id": "shotcraft:hit-counter",
+    "composition": "S-hit-counter",
+    "component": "HitCounter",
+    "source": "demos/effects/impact-feedback/HitCounter.tsx",
+    "card": "references/shots/effects/impact-feedback.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:anime-impact": {
+    "id": "shotcraft:anime-impact",
+    "composition": "S-anime-impact",
+    "component": "AnimeImpact",
+    "source": "demos/effects/impact-feedback/AnimeImpact.tsx",
+    "card": "references/shots/effects/impact-feedback.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:integration-hub-map": {
+    "id": "shotcraft:integration-hub-map",
+    "composition": "S-integration-hub-map",
+    "component": "IntegrationHubMap",
+    "source": "demos/ui-entrance/integration-hub-map/IntegrationHubMap.tsx",
+    "card": "references/shots/ui-entrance/integration-hub-map.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:lead-word-zoom-assemble": {
+    "id": "shotcraft:lead-word-zoom-assemble",
+    "composition": "S-lead-word-zoom-assemble",
+    "component": "LeadWordZoomAssemble",
+    "source": "demos/typography/lead-word-zoom-assemble/LeadWordZoomAssemble.tsx",
+    "card": "references/shots/typography/lead-word-zoom-assemble.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:letterspace-materialize": {
+    "id": "shotcraft:letterspace-materialize",
+    "composition": "S-letterspace-materialize",
+    "component": "LetterspaceMaterialize",
+    "source": "demos/opening/letterspace-materialize/LetterspaceMaterialize.tsx",
+    "card": "references/shots/opening/letterspace-materialize.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:spotlight-sweep": {
+    "id": "shotcraft:spotlight-sweep",
+    "composition": "S-spotlight-sweep",
+    "component": "SpotlightSweepReveal",
+    "source": "demos/effects/light-play-moves/SpotlightSweepReveal.tsx",
+    "card": "references/shots/effects/light-play-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:sheen-sweep": {
+    "id": "shotcraft:sheen-sweep",
+    "composition": "S-sheen-sweep",
+    "component": "SheenSweepRetry",
+    "source": "demos/effects/light-play-moves/SheenSweepRetry.tsx",
+    "card": "references/shots/effects/light-play-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:line-carry-transition": {
+    "id": "shotcraft:line-carry-transition",
+    "composition": "S-line-carry-transition",
+    "component": "LineCarryTransition",
+    "source": "demos/transition/line-carry-transition/LineCarryTransition.tsx",
+    "card": "references/shots/transition/line-carry-transition.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:list-reveal": {
+    "id": "shotcraft:list-reveal",
+    "composition": "S-list-reveal",
+    "component": "ListReveal",
+    "source": "demos/ui-entrance/list-reveal/ListReveal.tsx",
+    "card": "references/shots/ui-entrance/list-reveal.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:list-stack-press": {
+    "id": "shotcraft:list-stack-press",
+    "composition": "S-list-stack-press",
+    "component": "ListStackPress",
+    "source": "demos/ui-entrance/list-stack-press/ListStackPress.tsx",
+    "card": "references/shots/ui-entrance/list-stack-press.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:logo-shrink-wordmark-lockup": {
+    "id": "shotcraft:logo-shrink-wordmark-lockup",
+    "composition": "S-logo-shrink-wordmark-lockup",
+    "component": "LogoShrinkWordmarkLockup",
+    "source": "demos/outro/logo-shrink-wordmark-lockup/LogoShrinkWordmarkLockup.tsx",
+    "card": "references/shots/outro/logo-shrink-wordmark-lockup.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:magician-card-flourish": {
+    "id": "shotcraft:magician-card-flourish",
+    "composition": "S-magician-card-flourish",
+    "component": "MagicianCardFlourish",
+    "source": "demos/opening/magician-card-flourish/MagicianCardFlourish.tsx",
+    "card": "references/shots/opening/magician-card-flourish.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:marker-underline-title": {
+    "id": "shotcraft:marker-underline-title",
+    "composition": "S-marker-underline-title",
+    "component": "MarkerUnderlineTitle",
+    "source": "demos/typography/marker-underline-title/MarkerUnderlineTitle.tsx",
+    "card": "references/shots/typography/marker-underline-title.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:mosaic-reframe": {
+    "id": "shotcraft:mosaic-reframe",
+    "composition": "S-mosaic-reframe",
+    "component": "MosaicReframe",
+    "source": "demos/transition/mosaic-reframe/MosaicReframe.tsx",
+    "card": "references/shots/transition/mosaic-reframe.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:neon-frame-forerun": {
+    "id": "shotcraft:neon-frame-forerun",
+    "composition": "S-neon-frame-forerun",
+    "component": "NeonFrameForerun",
+    "source": "demos/ui-entrance/neon-frame-forerun/NeonFrameForerun.tsx",
+    "card": "references/shots/ui-entrance/neon-frame-forerun.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:neon-frame-orbit-drop": {
+    "id": "shotcraft:neon-frame-orbit-drop",
+    "composition": "S-neon-frame-orbit-drop",
+    "component": "NeonFrameForerunOrbit",
+    "source": "demos/ui-entrance/neon-frame-orbit-drop/NeonFrameForerunOrbit.tsx",
+    "card": "references/shots/ui-entrance/neon-frame-orbit-drop.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:neon-triple-marquee": {
+    "id": "shotcraft:neon-triple-marquee",
+    "composition": "S-neon-triple-marquee",
+    "component": "NeonTripleMarquee",
+    "source": "demos/outro/neon-triple-marquee/NeonTripleMarquee.tsx",
+    "card": "references/shots/outro/neon-triple-marquee.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:orbit-ring-title-open": {
+    "id": "shotcraft:orbit-ring-title-open",
+    "composition": "S-orbit-ring-title-open",
+    "component": "OrbitRingTitleOpen",
+    "source": "demos/opening/orbit-ring-title-open/OrbitRingTitleOpen.tsx",
+    "card": "references/shots/opening/orbit-ring-title-open.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:outline-word-fill": {
+    "id": "shotcraft:outline-word-fill",
+    "composition": "S-outline-word-fill",
+    "component": "OutlineWordFill",
+    "source": "demos/typography/outline-word-fill/OutlineWordFill.tsx",
+    "card": "references/shots/typography/outline-word-fill.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:outro-group-photo-launch": {
+    "id": "shotcraft:outro-group-photo-launch",
+    "composition": "S-outro-group-photo-launch",
+    "component": "OutroGroupPhotoLaunch",
+    "source": "demos/outro/outro-group-photo-launch/OutroGroupPhotoLaunch.tsx",
+    "card": "references/shots/outro/outro-group-photo-launch.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:tilt-reveal": {
+    "id": "shotcraft:tilt-reveal",
+    "composition": "S-tilt-reveal",
+    "component": "TiltReveal",
+    "source": "demos/camera/overhead-camera-moves/TiltReveal.tsx",
+    "card": "references/shots/camera/overhead-camera-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:overhead-tabletop-drop": {
+    "id": "shotcraft:overhead-tabletop-drop",
+    "composition": "S-overhead-tabletop-drop",
+    "component": "OverheadTabletopDrop",
+    "source": "demos/camera/overhead-camera-moves/OverheadTabletopDrop.tsx",
+    "card": "references/shots/camera/overhead-camera-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:barn-door-split": {
+    "id": "shotcraft:barn-door-split",
+    "composition": "S-barn-door-split",
+    "component": "BarnDoorSplit",
+    "source": "demos/transition/page-turn-transitions/BarnDoorSplit.tsx",
+    "card": "references/shots/transition/page-turn-transitions.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:page-waterfall-wall": {
+    "id": "shotcraft:page-waterfall-wall",
+    "composition": "S-page-waterfall-wall",
+    "component": "PageWaterfallWall",
+    "source": "demos/ui-entrance/page-waterfall-wall/PageWaterfallWall.tsx",
+    "card": "references/shots/ui-entrance/page-waterfall-wall.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:comic-panel-split": {
+    "id": "shotcraft:comic-panel-split",
+    "composition": "S-comic-panel-split",
+    "component": "ComicPanelSplit",
+    "source": "demos/rhythm/panel-grid-moves/ComicPanelSplit.tsx",
+    "card": "references/shots/rhythm/panel-grid-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:paper-title-card": {
+    "id": "shotcraft:paper-title-card",
+    "composition": "S-paper-title-card",
+    "component": "PaperTitleCard",
+    "source": "demos/typography/paper-title-card/PaperTitleCard.tsx",
+    "card": "references/shots/typography/paper-title-card.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:picker-carousel-feature-cycle": {
+    "id": "shotcraft:picker-carousel-feature-cycle",
+    "composition": "S-picker-carousel-feature-cycle",
+    "component": "PickerCarouselFeatureCycle",
+    "source": "demos/interaction/picker-carousel-feature-cycle/PickerCarouselFeatureCycle.tsx",
+    "card": "references/shots/interaction/picker-carousel-feature-cycle.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:pill-chip-slot-cycle-handled": {
+    "id": "shotcraft:pill-chip-slot-cycle-handled",
+    "composition": "S-pill-chip-slot-cycle-handled",
+    "component": "PillChipSlotCycleHandled",
+    "source": "demos/typography/pill-chip-slot-cycle-handled/PillChipSlotCycleHandled.tsx",
+    "card": "references/shots/typography/pill-chip-slot-cycle-handled.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:pill-slot-cycle": {
+    "id": "shotcraft:pill-slot-cycle",
+    "composition": "S-pill-slot-cycle",
+    "component": "PillSlotCycle",
+    "source": "demos/typography/pill-slot-cycle/PillSlotCycle.tsx",
+    "card": "references/shots/typography/pill-slot-cycle.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:ink-bleed-reveal": {
+    "id": "shotcraft:ink-bleed-reveal",
+    "composition": "S-ink-bleed-reveal",
+    "component": "InkBleedReveal",
+    "source": "demos/transition/print-texture-transitions/InkBleedReveal.tsx",
+    "card": "references/shots/transition/print-texture-transitions.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:product-card-progressive-assemble": {
+    "id": "shotcraft:product-card-progressive-assemble",
+    "composition": "S-product-card-progressive-assemble",
+    "component": "ProductCardProgressiveAssemble",
+    "source": "demos/ui-entrance/product-card-progressive-assemble/ProductCardProgressiveAssemble.tsx",
+    "card": "references/shots/ui-entrance/product-card-progressive-assemble.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:quad-split-parallel-scenes": {
+    "id": "shotcraft:quad-split-parallel-scenes",
+    "composition": "S-quad-split-parallel-scenes",
+    "component": "QuadSplitParallelScenes",
+    "source": "demos/rhythm/quad-split-parallel-scenes/QuadSplitParallelScenes.tsx",
+    "card": "references/shots/rhythm/quad-split-parallel-scenes.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:radial-ripple-phone-chips": {
+    "id": "shotcraft:radial-ripple-phone-chips",
+    "composition": "S-radial-ripple-phone-chips",
+    "component": "RadialRipplePhoneChips",
+    "source": "demos/effects/radial-ripple-phone-chips/RadialRipplePhoneChips.tsx",
+    "card": "references/shots/effects/radial-ripple-phone-chips.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:radial-wave": {
+    "id": "shotcraft:radial-wave",
+    "composition": "S-radial-wave",
+    "component": "RadialWave",
+    "source": "demos/ui-entrance/radial-wave/RadialWave.tsx",
+    "card": "references/shots/ui-entrance/radial-wave.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:research-card-stack-scroll": {
+    "id": "shotcraft:research-card-stack-scroll",
+    "composition": "S-research-card-stack-scroll",
+    "component": "ResearchCardStackScroll",
+    "source": "demos/ui-entrance/research-card-stack-scroll/ResearchCardStackScroll.tsx",
+    "card": "references/shots/ui-entrance/research-card-stack-scroll.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:jump-cut-punch-in": {
+    "id": "shotcraft:jump-cut-punch-in",
+    "composition": "S-jump-cut-punch-in",
+    "component": "JumpCutPunchIn",
+    "source": "demos/rhythm/rhythm-interrupt-moves/JumpCutPunchIn.tsx",
+    "card": "references/shots/rhythm/rhythm-interrupt-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:misregistration-hit": {
+    "id": "shotcraft:misregistration-hit",
+    "composition": "S-misregistration-hit",
+    "component": "RisoMisregistrationHit",
+    "source": "demos/effects/riso-print-hits/RisoMisregistrationHit.tsx",
+    "card": "references/shots/effects/riso-print-hits.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:row-embed": {
+    "id": "shotcraft:row-embed",
+    "composition": "S-row-embed",
+    "component": "RowEmbed",
+    "source": "demos/ui-entrance/row-embed/RowEmbed.tsx",
+    "card": "references/shots/ui-entrance/row-embed.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:sakuga-timing-shift": {
+    "id": "shotcraft:sakuga-timing-shift",
+    "composition": "S-sakuga-timing-shift",
+    "component": "SakugaTimingShift",
+    "source": "demos/rhythm/sakuga-timing-shift/SakugaTimingShift.tsx",
+    "card": "references/shots/rhythm/sakuga-timing-shift.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:scan-bracket-sweep": {
+    "id": "shotcraft:scan-bracket-sweep",
+    "composition": "S-scan-bracket-sweep",
+    "component": "ScanBracketSweep",
+    "source": "demos/effects/scan-bracket-sweep/ScanBracketSweep.tsx",
+    "card": "references/shots/effects/scan-bracket-sweep.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:scanline-annotate-focus": {
+    "id": "shotcraft:scanline-annotate-focus",
+    "composition": "S-scanline-annotate-focus",
+    "component": "ScanlineAnnotateFocus",
+    "source": "demos/effects/scanline-annotate-focus/ScanlineAnnotateFocus.tsx",
+    "card": "references/shots/effects/scanline-annotate-focus.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:scanline-assemble-flyin": {
+    "id": "shotcraft:scanline-assemble-flyin",
+    "composition": "S-scanline-assemble-flyin",
+    "component": "ScanlineAssembleFlyin",
+    "source": "demos/effects/scanline-assemble-flyin/ScanlineAssembleFlyin.tsx",
+    "card": "references/shots/effects/scanline-assemble-flyin.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:changelog-scroll-brake": {
+    "id": "shotcraft:changelog-scroll-brake",
+    "composition": "S-changelog-scroll-brake",
+    "component": "ChangelogScrollBrake",
+    "source": "demos/data/scroll-brake-moves/ChangelogScrollBrake.tsx",
+    "card": "references/shots/data/scroll-brake-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:brake-reticle-lock": {
+    "id": "shotcraft:brake-reticle-lock",
+    "composition": "S-brake-reticle-lock",
+    "component": "BrakeReticleLock",
+    "source": "demos/data/scroll-brake-moves/BrakeReticleLock.tsx",
+    "card": "references/shots/data/scroll-brake-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:segmented-thumb-hero": {
+    "id": "shotcraft:segmented-thumb-hero",
+    "composition": "S-segmented-thumb-hero",
+    "component": "SegmentedThumbHero",
+    "source": "demos/interaction/segmented-thumb-hero/SegmentedThumbHero.tsx",
+    "card": "references/shots/interaction/segmented-thumb-hero.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:flash-cut": {
+    "id": "shotcraft:flash-cut",
+    "composition": "S-flash-cut",
+    "component": "FlashCutTest",
+    "source": "assets/lib/FlashCut.tsx",
+    "card": "references/shots/transition/shot-transitions.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:whip-pan": {
+    "id": "shotcraft:whip-pan",
+    "composition": "S-whip-pan",
+    "component": "WhipBrakeReal",
+    "source": "demos/transition/shot-transitions/WhipBrakeReal.tsx",
+    "card": "references/shots/transition/shot-transitions.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:mask-wipe": {
+    "id": "shotcraft:mask-wipe",
+    "composition": "S-mask-wipe",
+    "component": "PortalWipeV2",
+    "source": "demos/transition/shot-transitions/PortalWipeV2.tsx",
+    "card": "references/shots/transition/shot-transitions.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:kanada-perspective-snap": {
+    "id": "shotcraft:kanada-perspective-snap",
+    "composition": "S-kanada-perspective-snap",
+    "component": "KanadaPerspectiveSnap",
+    "source": "demos/effects/slam-entrance-moves/KanadaPerspectiveSnap.tsx",
+    "card": "references/shots/effects/slam-entrance-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:score-slam": {
+    "id": "shotcraft:score-slam",
+    "composition": "S-score-slam",
+    "component": "ScoreSlam",
+    "source": "demos/effects/slam-entrance-moves/ScoreSlam.tsx",
+    "card": "references/shots/effects/slam-entrance-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:impact-burst-kit": {
+    "id": "shotcraft:impact-burst-kit",
+    "composition": "S-impact-burst-kit",
+    "component": "ImpactBurstKit",
+    "source": "demos/effects/slam-entrance-moves/ImpactBurstKit.tsx",
+    "card": "references/shots/effects/slam-entrance-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:exploded-view": {
+    "id": "shotcraft:exploded-view",
+    "composition": "S-exploded-view",
+    "component": "ExplodedView",
+    "source": "demos/camera/space-camera-moves/ExplodedView.tsx",
+    "card": "references/shots/camera/space-camera-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:drone-dive-landing": {
+    "id": "shotcraft:drone-dive-landing",
+    "composition": "S-drone-dive-landing",
+    "component": "DroneDiveLanding",
+    "source": "demos/camera/space-camera-moves/DroneDiveLanding.tsx",
+    "card": "references/shots/camera/space-camera-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:freeze-annotate": {
+    "id": "shotcraft:freeze-annotate",
+    "composition": "S-freeze-annotate",
+    "component": "FreezeAnnotateReal",
+    "source": "demos/rhythm/speed-ramp-freeze/FreezeAnnotateReal.tsx",
+    "card": "references/shots/rhythm/speed-ramp-freeze.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:spotlight-hero-card": {
+    "id": "shotcraft:spotlight-hero-card",
+    "composition": "S-spotlight-hero-card",
+    "component": "SpotlightHeroCard",
+    "source": "demos/opening/spotlight-hero-card/SpotlightHeroCard.tsx",
+    "card": "references/shots/opening/spotlight-hero-card.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:glow-wake-sleep-panel": {
+    "id": "shotcraft:glow-wake-sleep-panel",
+    "composition": "S-glow-wake-sleep-panel",
+    "component": "GlowWakeSleepPanel",
+    "source": "demos/effects/spotlight-sweep-moves/GlowWakeSleepPanel.tsx",
+    "card": "references/shots/effects/spotlight-sweep-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:slide-spotlight-pan": {
+    "id": "shotcraft:slide-spotlight-pan",
+    "composition": "S-slide-spotlight-pan",
+    "component": "SlideSpotlightPan",
+    "source": "demos/effects/spotlight-sweep-moves/SlideSpotlightPan.tsx",
+    "card": "references/shots/effects/spotlight-sweep-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:corner-spotlight-reveal": {
+    "id": "shotcraft:corner-spotlight-reveal",
+    "composition": "S-corner-spotlight-reveal",
+    "component": "CornerSpotlightReveal",
+    "source": "demos/effects/spotlight-sweep-moves/CornerSpotlightReveal.tsx",
+    "card": "references/shots/effects/spotlight-sweep-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:steep-tilt-glide": {
+    "id": "shotcraft:steep-tilt-glide",
+    "composition": "S-steep-tilt-glide",
+    "component": "SteepTiltGlide",
+    "source": "demos/camera/steep-tilt-glide/SteepTiltGlide.tsx",
+    "card": "references/shots/camera/steep-tilt-glide.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:stroke-segment-build": {
+    "id": "shotcraft:stroke-segment-build",
+    "composition": "S-stroke-segment-build",
+    "component": "StrokeSegmentBuild",
+    "source": "demos/opening/stroke-segment-build/StrokeSegmentBuild.tsx",
+    "card": "references/shots/opening/stroke-segment-build.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:glitch-displace": {
+    "id": "shotcraft:glitch-displace",
+    "composition": "S-glitch-displace",
+    "component": "GlitchDisplace",
+    "source": "demos/transition/tear-streak-transitions/GlitchDisplace.tsx",
+    "card": "references/shots/transition/tear-streak-transitions.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:bullet-time-freeze-orbit": {
+    "id": "shotcraft:bullet-time-freeze-orbit",
+    "composition": "S-bullet-time-freeze-orbit",
+    "component": "BulletTimeFreezeOrbit",
+    "source": "demos/camera/tension-camera-moves/BulletTimeFreezeOrbit.tsx",
+    "card": "references/shots/camera/tension-camera-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:pull-back-isolation": {
+    "id": "shotcraft:pull-back-isolation",
+    "composition": "S-pull-back-isolation",
+    "component": "PullBackIsolation",
+    "source": "demos/camera/tension-camera-moves/PullBackIsolation.tsx",
+    "card": "references/shots/camera/tension-camera-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:terminal-3d": {
+    "id": "shotcraft:terminal-3d",
+    "composition": "S-terminal-3d",
+    "component": "Terminal3D",
+    "source": "demos/camera/terminal-3d/Terminal3D.tsx",
+    "card": "references/shots/camera/terminal-3d.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:text-as-mask": {
+    "id": "shotcraft:text-as-mask",
+    "composition": "S-text-as-mask",
+    "component": "TextAsMask",
+    "source": "demos/opening/text-as-mask/TextAsMask.tsx",
+    "card": "references/shots/opening/text-as-mask.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:text-column-converge": {
+    "id": "shotcraft:text-column-converge",
+    "composition": "S-text-column-converge",
+    "component": "TextColumnConverge",
+    "source": "demos/typography/text-column-converge/TextColumnConverge.tsx",
+    "card": "references/shots/typography/text-column-converge.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:theme-sweep-toggle": {
+    "id": "shotcraft:theme-sweep-toggle",
+    "composition": "S-theme-sweep-toggle",
+    "component": "ThemeSweepToggle",
+    "source": "demos/interaction/theme-switch-moves/ThemeSweepToggle.tsx",
+    "card": "references/shots/interaction/theme-switch-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:palette-theme-ripple": {
+    "id": "shotcraft:palette-theme-ripple",
+    "composition": "S-palette-theme-ripple",
+    "component": "PaletteThemeRipple",
+    "source": "demos/interaction/theme-switch-moves/PaletteThemeRipple.tsx",
+    "card": "references/shots/interaction/theme-switch-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:timeline-travel": {
+    "id": "shotcraft:timeline-travel",
+    "composition": "S-timeline-travel",
+    "component": "TimelineTravel",
+    "source": "demos/data/timeline-travel/TimelineTravel.tsx",
+    "card": "references/shots/data/timeline-travel.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:title-demote-to-label": {
+    "id": "shotcraft:title-demote-to-label",
+    "composition": "S-title-demote-to-label",
+    "component": "TitleDemoteToLabel",
+    "source": "demos/typography/title-demote-to-label/TitleDemoteToLabel.tsx",
+    "card": "references/shots/typography/title-demote-to-label.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:trailer-bumper": {
+    "id": "shotcraft:trailer-bumper",
+    "composition": "S-trailer-bumper",
+    "component": "TrailerBumper",
+    "source": "demos/rhythm/trailer-grammar-moves/TrailerBumper.tsx",
+    "card": "references/shots/rhythm/trailer-grammar-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:invisible-cut": {
+    "id": "shotcraft:invisible-cut",
+    "composition": "S-invisible-cut",
+    "component": "InvisibleCut",
+    "source": "demos/transition/transition-hidden-cut/InvisibleCut.tsx",
+    "card": "references/shots/transition/transition-hidden-cut.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:versus-slam": {
+    "id": "shotcraft:versus-slam",
+    "composition": "S-versus-slam",
+    "component": "VersusSlam",
+    "source": "demos/transition/transition-hidden-cut/VersusSlam.tsx",
+    "card": "references/shots/transition/transition-hidden-cut.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:light-leak-burn": {
+    "id": "shotcraft:light-leak-burn",
+    "composition": "S-light-leak-burn",
+    "component": "LightLeakBurn",
+    "source": "demos/transition/transition-hidden-cut/LightLeakBurn.tsx",
+    "card": "references/shots/transition/transition-hidden-cut.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:letterform-zoom": {
+    "id": "shotcraft:letterform-zoom",
+    "composition": "S-letterform-zoom",
+    "component": "LetterformZoom",
+    "source": "demos/transition/transition-travel/LetterformZoom.tsx",
+    "card": "references/shots/transition/transition-travel.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:type-and-filter": {
+    "id": "shotcraft:type-and-filter",
+    "composition": "S-type-and-filter",
+    "component": "TypeAndFilter",
+    "source": "demos/interaction/type-and-filter/TypeAndFilter.tsx",
+    "card": "references/shots/interaction/type-and-filter.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:split-text-stagger": {
+    "id": "shotcraft:split-text-stagger",
+    "composition": "S-split-text-stagger",
+    "component": "SplitTextStagger",
+    "source": "demos/typography/type-assembly-moves/SplitTextStagger.tsx",
+    "card": "references/shots/typography/type-assembly-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:drift-assembly": {
+    "id": "shotcraft:drift-assembly",
+    "composition": "S-drift-assembly",
+    "component": "LetterformDriftAssembly",
+    "source": "demos/typography/type-assembly-moves/LetterformDriftAssembly.tsx",
+    "card": "references/shots/typography/type-assembly-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:text-on-path": {
+    "id": "shotcraft:text-on-path",
+    "composition": "S-text-on-path",
+    "component": "TextOnPath",
+    "source": "demos/typography/type-assembly-moves/TextOnPath.tsx",
+    "card": "references/shots/typography/type-assembly-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:letter-drop-physics": {
+    "id": "shotcraft:letter-drop-physics",
+    "composition": "S-letter-drop-physics",
+    "component": "LetterDropPhysics",
+    "source": "demos/typography/type-entrance-moves/LetterDropPhysics.tsx",
+    "card": "references/shots/typography/type-entrance-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:font-weight-pump": {
+    "id": "shotcraft:font-weight-pump",
+    "composition": "S-font-weight-pump",
+    "component": "FontWeightPump",
+    "source": "demos/typography/type-rhythm-sync/FontWeightPump.tsx",
+    "card": "references/shots/typography/type-rhythm-sync.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:karaoke-fill-sync": {
+    "id": "shotcraft:karaoke-fill-sync",
+    "composition": "S-karaoke-fill-sync",
+    "component": "KaraokeFillSync",
+    "source": "demos/typography/type-rhythm-sync/KaraokeFillSync.tsx",
+    "card": "references/shots/typography/type-rhythm-sync.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:error-retype": {
+    "id": "shotcraft:error-retype",
+    "composition": "S-error-retype",
+    "component": "TypewriterErrorRetype",
+    "source": "demos/typography/typewriter-moves/TypewriterErrorRetype.tsx",
+    "card": "references/shots/typography/typewriter-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:ui-strip-away-outro": {
+    "id": "shotcraft:ui-strip-away-outro",
+    "composition": "S-ui-strip-away-outro",
+    "component": "UiStripAwayOutro",
+    "source": "demos/outro/ui-strip-away-outro/UiStripAwayOutro.tsx",
+    "card": "references/shots/outro/ui-strip-away-outro.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:icon-flip-bloom": {
+    "id": "shotcraft:icon-flip-bloom",
+    "composition": "S-icon-flip-bloom",
+    "component": "IconFlipBloomLogo",
+    "source": "demos/outro/ui-to-brand-morph/IconFlipBloomLogo.tsx",
+    "card": "references/shots/outro/ui-to-brand-morph.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:input-morph-assemble": {
+    "id": "shotcraft:input-morph-assemble",
+    "composition": "S-input-morph-assemble",
+    "component": "InputMorphsIntoLogo",
+    "source": "demos/outro/ui-to-brand-morph/InputMorphsIntoLogo.tsx",
+    "card": "references/shots/outro/ui-to-brand-morph.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:value-stagger-gradient": {
+    "id": "shotcraft:value-stagger-gradient",
+    "composition": "S-value-stagger-gradient",
+    "component": "ValueStaggerGradient",
+    "source": "demos/ui-entrance/value-stagger-gradient/ValueStaggerGradient.tsx",
+    "card": "references/shots/ui-entrance/value-stagger-gradient.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:vertical-word-roll-blur-cycle": {
+    "id": "shotcraft:vertical-word-roll-blur-cycle",
+    "composition": "S-vertical-word-roll-blur-cycle",
+    "component": "VerticalWordRollBlurCycle",
+    "source": "demos/typography/vertical-word-roll-blur-cycle/VerticalWordRollBlurCycle.tsx",
+    "card": "references/shots/typography/vertical-word-roll-blur-cycle.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:voice-waveform-live": {
+    "id": "shotcraft:voice-waveform-live",
+    "composition": "S-voice-waveform-live",
+    "component": "VoiceWaveformLive",
+    "source": "demos/interaction/voice-waveform-live/VoiceWaveformLive.tsx",
+    "card": "references/shots/interaction/voice-waveform-live.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:bento-light-up": {
+    "id": "shotcraft:bento-light-up",
+    "composition": "S-bento-light-up",
+    "component": "BentoLightUp",
+    "source": "demos/ui-entrance/wall-reveal-moves/BentoLightUp.tsx",
+    "card": "references/shots/ui-entrance/wall-reveal-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:wireframe-draw-on": {
+    "id": "shotcraft:wireframe-draw-on",
+    "composition": "S-wireframe-draw-on",
+    "component": "WireframeDrawOn",
+    "source": "demos/ui-entrance/wall-reveal-moves/WireframeDrawOn.tsx",
+    "card": "references/shots/ui-entrance/wall-reveal-moves.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:white-flash-logo-simplify-cut": {
+    "id": "shotcraft:white-flash-logo-simplify-cut",
+    "composition": "S-white-flash-logo-simplify-cut",
+    "component": "WhiteFlashLogoSimplifyCut",
+    "source": "demos/transition/white-flash-logo-simplify-cut/WhiteFlashLogoSimplifyCut.tsx",
+    "card": "references/shots/transition/white-flash-logo-simplify-cut.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:blinds-slice": {
+    "id": "shotcraft:blinds-slice",
+    "composition": "S-blinds-slice",
+    "component": "BlindsSlice",
+    "source": "demos/transition/wipe-transitions/BlindsSlice.tsx",
+    "card": "references/shots/transition/wipe-transitions.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:word-relay-filmstrip": {
+    "id": "shotcraft:word-relay-filmstrip",
+    "composition": "S-word-relay-filmstrip",
+    "component": "WordRelayFilmstrip",
+    "source": "demos/typography/word-relay-filmstrip/WordRelayFilmstrip.tsx",
+    "card": "references/shots/typography/word-relay-filmstrip.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  },
+  "shotcraft:word-relay-geometry": {
+    "id": "shotcraft:word-relay-geometry",
+    "composition": "S-word-relay-geometry",
+    "component": "WordRelayGeometry",
+    "source": "demos/typography/word-relay-geometry/WordRelayGeometry.tsx",
+    "card": "references/shots/typography/word-relay-geometry.md",
+    "kind": "native-recipe-test",
+    "design_width": 1920,
+    "design_height": 1080
+  }
+}
